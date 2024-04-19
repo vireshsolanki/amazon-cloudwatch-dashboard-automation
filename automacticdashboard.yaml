@@ -137,7 +137,7 @@ Resources:
                               ],
                               "period": 300,
                               "stat": "Average",
-                              "region": "ap-south-1",
+                              "region": "ap-south-1",#change region here
                               "title": "EC2 Instance CPU Utilization"
                           }
                       }
